@@ -41,4 +41,6 @@ September 14, 2018: Initial release of rEFInd-wildside to DeviantArt.
 
 December 31, 2018: rEFInd-wildside theme uploaded to github.
 
-January 6, 2018: Added icons for Sparky Linux, GameDrift, and Lakka
+January 6, 2019: Added icons for Sparky Linux, GameDrift, and Lakka
+
+March 30. 2019: Added icons for Pop OS and Pisi Linux
